@@ -1,0 +1,63 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://minhalista.live/seu-apelido" pltv-name="Melhoriptv" pltv-description="Lista IPTV" pltv-cover="http://minhalista.live/seu-apelido" pltv-author="Romario Santos" pltv-email="ruanclimintino@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AMC HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1180.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Animal Planet HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Arte 1
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1029.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AXN
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/871.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Religiosos",Canal Novo Tempo
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/299.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",A&E
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/212.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",A&E HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/877.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",AMC
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1032.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",AMC HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1180.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",AXN HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/152.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",Canal Sony HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/156.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",Fox HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/169.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",FX
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1175.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",ID
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1176.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",Lifetime HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1179.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",SundanceTV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/944.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",SyFy
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/999.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",SyFy HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/295.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",TBS HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1027.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Séries",TNT Séries
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/332.ts
