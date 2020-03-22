@@ -3,16 +3,16 @@
 #PLAYLISTV: pltv-logo="http://minhalista.live/seu-apelido" pltv-name="Melhoriptv" pltv-description="Lista IPTV" pltv-cover="http://minhalista.live/seu-apelido" pltv-author="Romario Santos" pltv-email="ruanclimintino@gmail.com"
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AMC HD
-http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1180.ts
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1180.hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Animal Planet HD
-http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Arte 1
-http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1029.ts
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1029.hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AXN
-http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/871.ts
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/871.hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Religiosos",Canal Novo Tempo
 http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/299.ts
